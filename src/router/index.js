@@ -3,7 +3,9 @@ import Router from 'vue-router'
 import Login from '@/views/login'
 import Home from '@/views/Home'
 import NotFound from '@/views/404'
-
+import HeadBar from '@/views/HeadBar'
+import NarBar from '@/views/NarBar'
+import MainContent from '@/views/MainContent'
 
 
 
